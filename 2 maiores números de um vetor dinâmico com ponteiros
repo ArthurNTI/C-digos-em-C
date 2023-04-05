@@ -17,7 +17,7 @@ int sub(int *vet, int qtd){
       
    }
 
-   printf("Os dois maiores numeros sao: %d e %d", first_greater, second_greater);
+   printf("The two greatest numbers : %d e %d", first_greater, second_greater);
 }
     
 
